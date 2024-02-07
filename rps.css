@@ -1,0 +1,20 @@
+div.optionChoice {
+    display: flex;
+    justify-content: center;
+    /* align-items: flex-end; */
+    
+}
+
+button {
+    padding: 30px;
+    
+}
+
+
+#results {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    padding: 30px;
+
+}
